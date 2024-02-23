@@ -1,0 +1,18 @@
+.tab-container {
+  display: flex;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.hero-data-container {
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+}
+
+.hero-info {
+  padding: 20px;
+}
